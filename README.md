@@ -33,13 +33,14 @@ You can now see the filters and roles that are an exeption, if you want to chang
 
 If you pay someone to host it for you just tell them to host this script at this point
 
-Now you have to install node and the discord api to host the bot
+Now you have to install node,discord api and nodemon to host the bot
 
 
 Node: https://nodejs.org/en/
 
 Discord api: After you install node type this in the cmd: `npm install discord.js`
 
+Nodemon: After you install node type this in the cmd: `npm i -g nodemon`
 
 Now go into the directory you have `index.js` with cmd and type: `nodemon --inspect index.js`
 
