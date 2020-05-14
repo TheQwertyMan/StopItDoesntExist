@@ -1,8 +1,8 @@
-//https://discordapp.com/oauth2/authorize?client_id=710479434485858345&scope=bot
+//https://discordapp.com/oauth2/authorize?client_id=[Your client id here]&scope=bot
 //nodemon --inspect index.js
 
 //Instructions
-//First go to this site: https://discordapp.com/oauth2/authorize?client_id=710479434485858345&scope=bot
+//First go to this site: https://discordapp.com/oauth2/authorize?client_id=[Your client id here]&scope=bot
 //Select the Mirror House Server and click on 'Authorize'
 //Complete the captcha
 //Now the bot is added, if anyone types these keywords and is not a 'Pure Ones', the bot will send one of these responses: WE DONT HAVE ANY OF THE LEAKS YOU ASK FOR - PROOF: <https://www.youtube.com/watch?v=5AFVQI8PsQA> or THERE ARE ONLY LEAKS IF ITS ON #leak-tracker - PROOF: <https://www.youtube.com/watch?v=5AFVQI8PsQA>
@@ -117,4 +117,4 @@ client.on('message', message => {
  
 });
 
-client.login('NzEwNDc5NDM0NDg1ODU4MzQ1.Xr1EPg._I62PL6bQeIneL3WOvJBUfNW8rQ');
+client.login('Your Token Here');
