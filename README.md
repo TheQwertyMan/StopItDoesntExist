@@ -1,7 +1,7 @@
 # StopItDoesntExist
 My shitty discord bot for the Mirror House Cornflakes server that filters some words/questions that are answered in the faq
 
-#filtered words
+# filtered words
 ura zelda
 mother 64
 mother64
@@ -17,7 +17,7 @@ new leaks
 new leak?
 new leak
 
-#How to add this bot to your own server
+# How to add this bot to your own server
 Ok, so i'm not hosting this for you, so here are instructions on how to host and add it to your own server:
 First go to this page and make a new application: https://discord.com/developers/
 Copy the `ClientID`
