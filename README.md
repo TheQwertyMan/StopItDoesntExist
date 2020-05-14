@@ -2,20 +2,20 @@
 My shitty discord bot for the Mirror House Cornflakes server that filters some words/questions that are answered in the faq
 
 # filtered words
-ura zelda
-mother 64
-mother64
-spaceworld
-mario 64 beta
-mario64 beta
-mario 64 proto
-mario64 proto
-mario64 prototype
-mario 64 prototype
-new leaks?
-new leaks
-new leak?
-new leak
+- ura zelda
+- mother 64
+- mother64
+- spaceworld
+- mario 64 beta
+- mario64 beta
+- mario 64 proto
+- mario64 proto
+- mario64 prototype
+- mario 64 prototype
+- new leaks?
+- new leaks
+- new leak?
+- new leak
 
 # How to add this bot to your own server
 Ok, so i'm not hosting this for you, so here are instructions on how to host and add it to your own server:
