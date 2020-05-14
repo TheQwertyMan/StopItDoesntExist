@@ -48,7 +48,7 @@ Congratulations, your bot is officially hosted, now you just need to add it to y
 
 From `index.js`:
 
-First go to this site: https://discordapp.com/oauth2/authorize?client_id=710479434485858345&scope=bot
+First go to this site: https://discordapp.com/oauth2/authorize?client_id=[your client id here]&scope=bot
 
 Select the Discord server you want to add this bot to and click on 'Authorize'
 
