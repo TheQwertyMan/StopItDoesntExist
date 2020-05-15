@@ -1,11 +1,4 @@
-//https://discordapp.com/oauth2/authorize?client_id=[your token id here]&scope=bot
 //nodemon --inspect index.js
-
-//Instructions
-//First go to this site: https://discordapp.com/oauth2/authorize?client_id=[your token id here]&scope=bot
-//Select the server you want to add the bot to and click on 'Authorize'
-//Complete the captcha
-//Now the bot is added
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
