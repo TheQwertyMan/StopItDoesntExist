@@ -35,6 +35,8 @@ var Blacklisted = false
 client.on('message', message => {
 	
 	if (message.content.toLowerCase().includes('anonfiles.com/')) {
+		//Remove the // if the bot has admin privliges
+		//message.remove()
 		message.reply('Please refrain from sending links to sites where there are known to be leaks')
 		console.log(`Deleted the message '${message.content}' by '${message.member.user.tag}' for includinig a link to a known filehoster with leaks`)
 	}
