@@ -1,7 +1,7 @@
 # StopItDoesntExist
 My shitty discord bot for the Mirror House Cornflakes server that filters some words/questions that are answered in the faq
 
-# filtered words
+# filtered words as of writing this
 - ura zelda
 - mother 64
 - mother64
@@ -26,14 +26,16 @@ Copy the `ClientID`
 
 Go to the 'Bot' section and copy your `Token`
 
-Now edit `index.js` and put your `ClientID` and `Token` into the places where you need them
+Now edit `config.json` and put your `Token` after `token` and your ClientID after `BotLink` where it says `[yourClientidhere]`
 
-You can now see the filters and roles that are an exeption, if you want to change these, go ahead, but i won't help you since it takes to long to write
+You can now see the filters and roles that are an exeption in `index.js`, if you want to change these, go ahead, but i won't help you since it takes to long to write
+
 
 
 If you pay someone to host it for you just tell them to host this script at this point
 
 Now you have to install node,discord api and nodemon to host the bot
+
 
 
 Node: https://nodejs.org/en/
@@ -45,6 +47,7 @@ Nodemon: After you install node type this in the cmd: `npm i -g nodemon`
 Now go into the directory you have `index.js` with cmd and type: `nodemon --inspect index.js`
 
 Congratulations, your bot is officially hosted, now you just need to add it to your server
+
 
 
 From `index.js`:
