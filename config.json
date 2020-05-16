@@ -1,4 +1,5 @@
 {
-	"Token": "Copy Your Token Here",
-	"BotLink":"https://discordapp.com/oauth2/authorize?client_id=[YourClientIDHere]&scope=bot"
+	"Token": "[YourTokenHere]",
+	"BotLink":"https://discordapp.com/oauth2/authorize?client_id=[YourClientIDHere]&scope=bot",
+	"UserToPing":"@[YourUserIDHere]"
 }
