@@ -28,6 +28,10 @@ Go to the 'Bot' section and copy your `Token`
 
 Now edit `config.json` and put your `Token` after `token` and your ClientID after `BotLink` where it says `[yourClientidhere]`
 
+Copy your UserID, you get this by enabling dev mode and rightclicking on your profile, and the pressing copy ID, and paste it next to UserToPing
+
+The bot will say to ping you with any questions
+
 You can now see the filters and roles that are an exeption in `index.js`, if you want to change these, go ahead, but i won't help you since it takes to long to write
 
 
