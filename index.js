@@ -49,6 +49,7 @@ client.on('message', message => {
 	//Rickroll/linktest
 	if(message.content === 'testlink') {
 		message.reply(EmbedRick)
+		console.log(`'${message.member.user.tag}' Rickrolled someone`)	
 	}
 
 	//Check for links
