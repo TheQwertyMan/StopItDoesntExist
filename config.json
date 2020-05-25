@@ -2,4 +2,5 @@
 	"Token": "[YourTokenHere]",
 	"BotLink":"https://discordapp.com/oauth2/authorize?client_id=[YourClientIDHere]&scope=bot",
 	"UserToPing":"@[YourUserIDHere]"
+	"WhitelistedRole":"[Your whitelisted role here]"
 }
