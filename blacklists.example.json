@@ -1,0 +1,10 @@
+[
+    { 
+        "response":"This is wordlist one, under this put an array of words to filter", 
+        "words": [ "some", "words", "i", "don't", "like" ]
+    },
+    { 
+        "response":"This is wordlist two, under this put an array of words to filter", 
+        "words": [ "some", "words", "i", "don't", "like", "but", "with", "a", "different", "response" ]
+    }
+]
